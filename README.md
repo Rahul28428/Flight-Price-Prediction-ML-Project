@@ -2,7 +2,7 @@
 This project focuses on predicting flight prices using machine learning techniques. The goal is to develop a model that can accurately estimate the price of a flight ticket based on various features such as the source, destination, date of journey, departure time, arrival time, airline, and other relevant factors.
 
 <h3> Dataset </h3>
-The dataset used for this project is stored in an Excel file and contains information about different flights. The dataset is preprocessed by handling missing values, dropping duplicates, and converting relevant features into appropriate formats.
+The dataset used for this project is stored in an Excel file named Dataset.xlsx and contains information about different flights. The dataset is preprocessed by handling missing values, dropping duplicates, and converting relevant features into appropriate formats.
 
 <h3> Data Preprocessing </h3>
 The data preprocessing steps include handling missing values, dropping duplicates, converting date and time features into a suitable format, and extracting relevant information from the duration feature. Categorical variables are also encoded to make them suitable for machine learning algorithms.
